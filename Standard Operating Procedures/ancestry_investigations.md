@@ -1,5 +1,5 @@
 ---
- tags: Ancestry
+tags: Ancestry
 ---
  # Ancestry Investigations with Obsidian 🔍
 
@@ -11,16 +11,16 @@
 
  ## How to get the Mind Map plugin in Obsidian
  - Go to **Settings** (bottom-left)--> **Community Plugins** --> **Turn off Safe Mode** --> **Browse Community Plugins** --> **Type Mind Map** --> **Install**
- - The code to this plugin is open source and can be found here: [Obsidian Mind Map by James Lynch](https://github.com/lynchjames/obsidian-mind-map)
+ - The recommended plugin is **Enhancing Mindmap**: [obsidian-enhancing-mindmap](https://github.com/MarkMindCkm/obsidian-enhancing-mindmap)
  <br>
 
  <p align="center">
  <img width="333" src="https://user-images.githubusercontent.com/104733166/177207278-60cf9e18-d128-4a09-a013-083a4202b74b.png" />
- <p/>
+ </p>
 
  <p align="center">
  <img width="633"src="https://user-images.githubusercontent.com/104733166/177207282-f88a8fea-527a-4f60-b32e-9d4185738d48.png"/>
- <p/>
+ </p>
  <br>
 
  ## Activating Mind Map

@@ -88,7 +88,7 @@ _Using it right now!_
 📜
 Built-in tasks, 
 tables, 
-embedding of 🖼️images a nd files
+embedding of 🖼️images and files
 
 ---
 🔌
