@@ -40,7 +40,7 @@ tags: person poi
 
 ### Social media account(s)
 - URL to profile 1: https://www.test.com/gabipark
-- 
+
 ## Residences
 - Current address: 
 	- [ ] Find current residence

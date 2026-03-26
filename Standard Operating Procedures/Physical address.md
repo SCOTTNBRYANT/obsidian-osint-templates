@@ -6,6 +6,6 @@ tags: location address
 
 - [ ] https://maps.google.com
 - [ ] [[People Search Engine]]
-- [ ] https://sothesby.com
+- [ ] https://www.sothebys.com
 - [ ] https://zillow.com
 - [ ] [[Search engine]]

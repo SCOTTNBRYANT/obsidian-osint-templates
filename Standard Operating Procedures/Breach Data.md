@@ -6,3 +6,8 @@ tags: breach breachdata
 
 - [ ] https://haveibeenpwned.com
 - [ ] https://intelx.io
+- [ ] https://dehashed.com
+- [ ] https://leakcheck.io
+- [ ] https://snusbase.com
+- [ ] [[Email address]]
+- [ ] [[Username]]

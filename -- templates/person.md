@@ -20,7 +20,7 @@ tags: person poi
 ### Family Members
 > [!tip] How to use this
 > - Remember that Obsidian is all about linking documents 
-> - So, instead of listing every family member they have, create new [[-- person]] notes with each person's data and link them together.
+> - So, instead of listing every family member they have, create new [[person]] notes with each person's data and link them together.
 
 - Mother: 
 - Father:
@@ -52,7 +52,7 @@ tags: person poi
 ## Employment
 > [!tip] How to use this
 > - Remember that Obsidian is all about linking documents 
-> - So, instead of listing every company the person worked for, create new [[-- business]] notes link them together.
+> - So, instead of listing every company the person worked for, create new [[business]] notes and link them together.
 
 - Company 1: 
 - [ ] Use the [[Business name]] actions

@@ -1,4 +1,7 @@
-## PERSONAL INFORMATION [[Target File]]
+---
+tags: person poi intelligence detailed
+---
+## PERSONAL INFORMATION
  - First Name:
  - Middle Name:
  - Last Name:
@@ -57,7 +60,7 @@
 
 
 ## PROFESSIONAL INFORMATION
- - Company [[Company Details]] :
+ - Company (create a [[business]] note):
  - Company Website: 
  - Company Number:
  - Company Address: 
@@ -70,8 +73,8 @@
 
 
 ## RELATIVES
- - Mother's Name [[File]]:
- - Father's Name [[File]]:
+ - Mother's Name (create a [[person]] note):
+ - Father's Name (create a [[person]] note):
  - Brothers/ Sisters: 
  - In a relationship with:
  - Married to: 
@@ -79,7 +82,7 @@
 
 
 ## CRIMINAL RECORD 
- - Criminal Record Y/N [[File]]: 
+ - Criminal Record Y/N:
  - Crime(s) committed: 
  - Considered dangerous Y/N: 
  - Mental Health Issues: 
