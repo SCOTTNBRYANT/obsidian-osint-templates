@@ -1,25 +1,39 @@
 # obsidian-osint-templates
 
+> **Fork of [WebBreacher/obsidian-osint-templates](https://github.com/WebBreacher/obsidian-osint-templates)** by Micah Hoffman. This fork includes expanded SOPs, additional templates, and bug fixes.
+
 > [!info] License
 > Copyright (c) 2024 Micah Hoffman
-> 
+>
 > This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-## What is Obsidian?
-Instead of me explaining what [Obsidian](https://obsidian.md) is and how to use it, I suggest you visit [the YouTube channel of Linking Your Thinking](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) and watch a few of those free videos. Alternatively, [the help section of the Obsidian website](https://help.obsidian.md/Start+here) has detailed documentation that is worth a read.
+## What is This?
 
-Both resources walk you through the basics of how Obsidian works and what you can expect in the tool and its files. I strongly urge you to go watch those short videos, read the docs, and take notes. 
+An [Obsidian](https://obsidian.md) vault with templates and Standard Operating Procedures (SOPs) for OSINT investigations. Open the vault in Obsidian and start with the [[START HERE]] note.
 
-## Templates
-These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation.  The example data in those files should allow you to make some connections _(see what I did there?)_ between how you record your data during an investigation and some of what the tool can offer FOR FREE!
+## Getting Started
 
-## OSINT and Obsidian
-I'm made several free and paid resources to help OSINT people start in their Obsidian journey.
-1. Blog post: https://webbreacher.com/2022/03/15/obsidian/
-2. YouTube Video of me demoing an older version of Obsidian: https://www.youtube.com/watch?v=sKF37Ng4gaI
-3. Obsidian course that teaches you how to set it up, configure it, and start using Obsidian in your OSINT work: https://www.myosint.training/courses/osint-documentation-with-obsidian
+1. Download or clone this repository
+2. Open Obsidian and select "Open folder as vault"
+3. Point it to this directory
+4. Read the `START HERE` note for a walkthrough
 
-## Always Looking to Improve
-Do you have suggestions on how to improve these templates? Want to contribute to the project?
-1. Create [an issue](https://github.com/WebBreacher/obsidian-osint-templates/issues) and let me know.
-2. Or submit a pull request to make changes.
+## What's Included
+
+- **Templates** for person, business, domain/IP, location, and ancestry investigations
+- **18+ SOPs** covering common OSINT selector types (username, email, phone, domain, etc.)
+- **Example case** with fictional data showing how to link notes together
+- **Pre-configured plugins** for mind maps, tasks, maps, and more
+
+## Learning Resources
+
+1. [Linking Your Thinking YouTube channel](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd) for learning Obsidian basics
+2. [Obsidian Help Docs](https://help.obsidian.md/Start+here) for detailed documentation
+3. Blog post: https://webbreacher.com/2022/03/15/obsidian/
+4. YouTube demo: https://www.youtube.com/watch?v=sKF37Ng4gaI
+5. Paid course: https://www.myosint.training/courses/osint-documentation-with-obsidian
+
+## Contributing
+
+1. Create [an issue](https://github.com/SCOTTNBRYANT/obsidian-osint-templates/issues) with your suggestion
+2. Or submit a pull request

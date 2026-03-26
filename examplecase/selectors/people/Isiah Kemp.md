@@ -10,7 +10,7 @@ tags: person poi child
 - Surname/family name/last name: **Kemp**
 - Unmarried/maiden name:
 - Also known as: 
-- Date of birth: **February 29, 2001**
+- Date of birth: **February 28, 2001**
 
 ### Family Members
 - Mother: [[Gabriella Parkington]]

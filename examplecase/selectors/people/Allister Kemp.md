@@ -9,7 +9,7 @@ tags: person poi primary
 
 ## Biographical Data
 ### About the person
-- Given/first name: **Alister**
+- Given/first name: **Allister**
 - Middle name:
 - Surname/family name/last name: **Kemp**
 - Unmarried/maiden name:
@@ -46,7 +46,7 @@ tags: person poi primary
 - [ ] Perform [[Username]] actions
 
 ### Social media account(s)
-- See table above [[#Username s]]
+- See table above [[#Username(s)]]
 
 ## Residences
 - Current address:  [[62 Number 20-83 a 20-15, Sogamoso, Boyacá, Colombia]]
